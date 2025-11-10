@@ -45,7 +45,7 @@ print(plan)
 <img width="972" height="428" alt="image" src="https://github.com/user-attachments/assets/55a73792-4f12-46e4-8614-622ac861bd76" />
 
 
-# Solution or Definition For the method find_plan(initial_state, goal_state, actions)
+### Solution for the method find_plan(initial_state, goal_state, actions)
 
 ```
 
